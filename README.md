@@ -15,7 +15,7 @@ The phone book application works specifically for tracking people. Phonebook app
 4.	Edit contacts
 5.	Deleting contacts
 6.	Search contacts
-7.	
+	
 **Data set:**
     bool endOfWord;
     string number;
